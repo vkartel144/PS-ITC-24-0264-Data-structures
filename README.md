@@ -1,6 +1,6 @@
  Real-World Applications of Arrays as a Data Structure
 
- 1. Introduction
+ 1. Introduction 
 
 An array is a data structure used to store multiple elements of the same data type under one variable name. Each element is accessed using an index, which starts from 0 in C++.
 
